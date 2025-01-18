@@ -1,2 +1,2 @@
-# Marlin-2.1.3-b1-Anet-AM8
- Marlin for Anet AM8
+Conversion of anet a8 to am8 with 2020 x gantry using ender 3 carriage, 
+uses an mks gen l v2.1 with tmc 2209 using sensorless homing and a prusa style lcd
